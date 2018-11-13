@@ -1,6 +1,6 @@
 <?php
 
-namespace Dynamic\Elements\FoxyStrpe\Element;
+namespace Dynamic\Elements\FoxyStripe\Element;
 
 use DNADesign\Elemental\Models\BaseElement;
 use Dynamic\FoxyStripe\Page\ProductPage;

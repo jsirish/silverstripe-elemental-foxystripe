@@ -2,7 +2,7 @@
 
 namespace Dynamic\Elements\FoxyStripe\Test;
 
-use Dynamic\Elements\FoxyStrpe\Element\ElementFeaturedProducts;
+use Dynamic\Elements\FoxyStripe\Element\ElementFeaturedProducts;
 use SilverStripe\Dev\SapphireTest;
 use SilverStripe\Forms\FieldList;
 
